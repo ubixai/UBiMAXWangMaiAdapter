@@ -1,0 +1,2 @@
+# UBiMAXWangMaiAdapter
+UBiMAXWangMaiAdapter
