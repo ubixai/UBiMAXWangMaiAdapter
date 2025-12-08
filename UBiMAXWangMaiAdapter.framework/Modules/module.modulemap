@@ -1,0 +1,6 @@
+framework module UBiMAXWangMaiAdapter {
+  umbrella header "UBiMAXWangMaiAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
