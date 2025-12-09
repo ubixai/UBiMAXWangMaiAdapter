@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'UBiMAXWangMaiAdapter'
-  s.version          = '7.5.3.24.0.0'
+  s.version          = '7.5.3.24.0'
   s.summary          = 'UBiX聚合Sass SDK WangMai Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   # s.license          = { :type => 'MIT', :file => 'LICENSE' }
